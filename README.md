@@ -5,6 +5,8 @@ This project aims to bring the excitement of the original racing and combat game
 
 ---
 
+## V1 working version in Terminal
+
 ## 🚦 What is RoadRashPyVer?
 
 RoadRashPyVer is a Python-powered clone of the legendary **Road Rash** racing game. Just like the original, you race motorcycles, dodge traffic, and use combat to get ahead of your rivals.  
@@ -96,7 +98,8 @@ If you have ideas for new features, bug fixes, or improvements, open an issue or
 ## 🙏 Acknowledgements
 
 - Inspired by the original [Road Rash](https://en.wikipedia.org/wiki/Road_Rash) by Electronic Arts
-- Built with [pygame](https://www.pygame.org/)
+- V1 Base terminal version
+- Upcoming V2 Built with [pygame](https://www.pygame.org/)
 
 ---
 
